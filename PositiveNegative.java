@@ -11,3 +11,4 @@ class PositiveNegative
     System.out.println("Number is zero ");
     }
 }
+
